@@ -103,7 +103,6 @@ class TaskListViewController: UITableViewController {
             self.tableView.reloadData()
         }
     }
-
 }
 
 extension TaskListViewController {
